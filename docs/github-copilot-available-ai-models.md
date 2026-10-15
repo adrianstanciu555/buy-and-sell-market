@@ -1,0 +1,139 @@
+# Copilot Available AI models for this project
+
+## Agent
+
+- Claude Fable 5.1
+
+- Claude Haiku 5.5
+
+- Claude Opus 5.5
+
+- Claude Sonnet 5.5
+
+- Gemini 3.8 Flash
+
+- Gemini 4 Argon
+
+- GPT-6 Astra
+
+- GPT-6 Luna
+
+- GPT-6.1 Sol
+
+- Grok 4.7
+
+- Kimi K3
+
+- MAI-Code-1.1-Flash
+
+###  Agent - Other Models
+
+- Claude Fable 5
+
+- Claude Haiku 4.5
+
+- Claude Opus 5
+
+- Claude Sonnet 5
+
+- GPT-5.3-Codex
+
+- GPT-5.6 Luna
+
+- GPT-5.6 Sol
+
+- GPT-5.6 Terra
+
+- GPT-6 Sol
+
+## Ask
+
+- Claude Fable 5.1
+
+- Claude Haiku 5.5
+
+- Claude Opus 5.5
+
+- Claude Sonnet 5.5
+
+- Gemini 3.8 Flash
+
+- Gemini 4 Argon
+
+- GPT-6 Astra
+
+- GPT-6 Luna
+
+- GPT-6.1 Sol
+
+- Grok 4.7
+
+- Kimi K3
+
+- MAI-Code-1.1-Flash
+
+###  Ask - Other Models
+
+- Claude Fable 5
+
+- Claude Haiku 4.5
+
+- Claude Opus 5
+
+- Claude Sonnet 5
+
+- GPT-5.3-Codex
+
+- GPT-5.6 Luna
+
+- GPT-5.6 Sol
+
+- GPT-5.6 Terra
+
+- GPT-6 Sol
+
+## Plan
+
+- Claude Fable 5.1
+
+- Claude Haiku 5.5
+
+- Claude Opus 5.5
+
+- Claude Sonnet 5.5
+
+- Gemini 3.8 Flash
+
+- Gemini 4 Argon
+
+- GPT-6 Astra
+
+- GPT-6 Luna
+
+- GPT-6.1 Sol
+
+- Grok 4.7
+
+- Kimi K3
+
+- MAI-Code-1.1-Flash
+
+###  Plan - Other Models
+
+- Claude Fable 5
+
+- Claude Haiku 4.5
+
+- Claude Opus 5
+
+- Claude Sonnet 5
+
+- GPT-5.3-Codex
+
+- GPT-5.6 Luna
+
+- GPT-5.6 Sol
+
+- GPT-5.6 Terra
+
+- GPT-6 Sol
